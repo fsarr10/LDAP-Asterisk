@@ -1,0 +1,5 @@
+dn: dc=asterisk,dc=sn
+objectclass: dcObject
+objectclass: organization
+dc: asterisk
+o: asterisk

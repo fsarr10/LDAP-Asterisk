@@ -1,0 +1,7 @@
+dn: ou=users,ou=asterisk,dc=asterisk,dc=sn
+objectClass: organizationalUnit
+ou: users
+
+dn: ou=asterisk,dc=asterisk,dc=sn
+objectClass: organizationalUnit
+ou: asterisk

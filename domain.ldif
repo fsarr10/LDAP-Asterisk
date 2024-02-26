@@ -1,0 +1,3 @@
+dn: dc=asterisk,dc=sn
+objectClass: domain
+dc: asterisk

@@ -1,0 +1,17 @@
+#OU asterisk
+dn: ou=asterisk,dc=asterisk,dc=sn
+objectClass: top
+objectClass: organizationalUnit
+ou: asterisk
+
+# OU users
+dn: ou=users,ou=asterisk,dc=asterisk,dc=sn
+objectClass: top
+objectClass: organizationalUnit
+ou: users
+
+# OU extensions
+dn: ou=extensions,ou=asterisk,dc=asterisk,dc=sn
+objectClass: top
+objectClass: organizationalUnit
+ou: extensions
